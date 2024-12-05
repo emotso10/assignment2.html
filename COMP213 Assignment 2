@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Websites about Protected Areas Issues</title>
+    <style>
+        /* Global Styles */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f6; /* Light grayish background */
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        /* Header Styles */
+        header {
+            background-color: #388e3c; /* Rich green banner */
+            color: white;
+            padding: 30px 0;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+        }
+        
+        header img {
+            max-height: 80px;
+            vertical-align: middle;
+            margin-left: 20px;
+        }
+
+        header h3 {
+            display: inline;
+            margin-left: 15px;
+            font-size: 2.2em;
+            font-weight: 500;
+        }
+
+        /* Main Content Styles */
+        main {
+            width: 80%;
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        main p {
+            font-size: 1.1em;
+            color: #444;
+            margin-bottom: 20px;
+        }
+
+        main h3 {
+            font-size: 1.8em;
+            margin-top: 30px;
+            color: #388e3c;
+        }
+
+        /* List and Link Styles */
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        ul li {
+            background-color: #f0f4f1;
+            margin: 10px 0;
+            padding: 10px;
+            border-left: 5px solid #388e3c;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+
+        ul li:hover {
+            background-color: #e0f7e2; /* Light green on hover */
+        }
+
+        a {
+            color: #388e3c;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: #2c6c28;
+        }
+
+        /* Footer Styles */
+        footer {
+            text-align: center;
+            background-color: #f4f7f6;
+            padding: 20px 0;
+            font-size: 0.9em;
+            color: #888;
+            margin-top: 40px;
+            border-top: 2px solid #ddd;
+        }
+
+        footer hr {
+            border: none;
+            border-top: 1px solid #ddd;
+            width: 60%;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="windmill.jpg" alt="Protected Areas Banner">
+        <h3>Websites about Protected Areas Issues</h3>
+    </header>
+
+    <main>
+        <p>
+            Protected areas are vital for conserving biodiversity, safeguarding ecosystems, and mitigating climate change. These areas play a key role in protecting wildlife habitats and providing ecological, social, and cultural benefits to communities around the world.
+        </p>
+        <h3>Useful Resources on Protected Areas</h3>
+        <ul>
+            <li><a href="https://www.iucn.org/theme/protected-areas/about" target="_blank">IUCN - About Protected Areas</a></li>
+            <li><a href="https://www.nationalgeographic.com/environment" target="_blank">National Geographic - Environment</a></li>
+            <li><a href="https://www.worldwildlife.org/initiatives/protected-areas" target="_blank">World Wildlife Fund - Protected Areas</a></li>
+            <li><a href="https://www.conservation.org/priorities/protected-areas" target="_blank">Conservation International</a></li>
+            <li><a href="https://www.unep.org/resources" target="_blank">UNEP - Conservation Resources</a></li>
+            <li><a href="https://www.nature.org/en-us/" target="_blank">The Nature Conservancy</a></li>
+        </ul>
+    </main>
+
+    <footer>
+        <hr>
+        <p>
+            &copy; 2024 Emmanuel Motso
+| Student #: 301373818 | Assignment 2<br>
+            Banner image credit: Placeholder | Information credit: IUCN and related websites.
+        </p>
+    </footer>
+</body>
+</html>
